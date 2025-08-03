@@ -12,13 +12,17 @@ Before starting, make sure the following tools are installed on your machine:
 
 ### ✅ Node.js
 
-- Download and install Node.js from the official website:  
+- Download and install Node.js 18.20.8 from the official website:  
   👉 https://nodejs.org/en/download
+
+![Node.js Download Page](./screen/node.js-install.png)
 
 ### ✅ Python
 
 - Install Python, which is required by some native Node modules during build:  
   👉 https://www.python.org/downloads/
+
+![Python Download Page](./screen/python-install.png)
 
 > ⚠️ **Important:** During installation, select the option to **Add Python to PATH**.
 
@@ -35,7 +39,7 @@ git clone https://github.com/blockchain-tech02/testPrj725.git
 ### 2. Navigate to the Project Directory
 
 ```bash
-cd testPrj0721
+cd testPrj725
 ```
 
 ### 3. Install Dependencies
@@ -55,3 +59,4 @@ Run the development server with:
 ```bash
 npm run start
 ```
+
